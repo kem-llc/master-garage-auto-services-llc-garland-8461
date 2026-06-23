@@ -6,309 +6,315 @@
     "niche": "Auto Mechanic",
     "phone": "(972) 815-8461",
     "address": "3014 Benton St, Garland, TX 75042",
-    "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 2:00 PM, Sun: Closed",
-    "ctaLabel": "Schedule Your Appointment Today",
+    "hours": "Mon-Fri: 7:30 AM - 5:30 PM, Sat: 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule Service",
     "headerCta": "Call Now",
     "city": "Garland, TX"
   },
   "seo": {
-    "title": "Master Garage Auto Services | Trusted Auto Mechanic in Garland, TX",
-    "description": "Master Garage Auto Services LLC in Garland, TX offers expert auto repair, maintenance, and diagnostics. Certified mechanics, honest pricing. Call (972) 815-8461."
+    "title": "Master Garage Auto Services LLC | Trusted Auto Mechanic in Garland, TX",
+    "description": "Expert auto repair and maintenance in Garland, TX. From brake service to engine diagnostics, our certified mechanics deliver quality work at fair prices. Call (972) 815-8461 today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Garland's Trusted Auto Repair Experts",
-      "headline": "Reliable, Honest Auto Service You Can Count On",
-      "subheadline": "From routine maintenance to major repairs, our certified mechanics deliver quality workmanship at fair prices. Serving Garland and surrounding areas.",
+      "eyebrow": "Your Trusted Auto Repair Experts in Garland",
+      "headline": "Reliable, Honest Auto Service That Keeps You on the Road",
+      "subheadline": "From routine maintenance to major repairs, our certified technicians deliver quality workmanship with transparent pricing and a commitment to your safety.",
       "primaryCta": "Schedule Service",
       "secondaryCta": "Call (972) 815-8461"
     },
     "stats": [
       {
-        "value": "4.9",
-        "label": "Average Rating"
-      },
-      {
         "value": "15+",
-        "label": "Years Experience"
+        "label": "Years of Experience"
       },
       {
-        "value": "500+",
+        "value": "5,000+",
         "label": "Vehicles Serviced"
       },
       {
         "value": "100%",
         "label": "Customer Satisfaction"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Precision Diagnostics",
-        "title": "Advanced Diagnostics for Accurate Repairs",
-        "body": "We use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately, saving you time and money.",
+        "eyebrow": "Comprehensive Auto Care",
+        "title": "Full-Service Auto Repair & Maintenance",
+        "body": "Whether you need a simple oil change or a complex engine overhaul, our team has the expertise to get the job done right. We service all makes and models, using state-of-the-art diagnostic equipment to pinpoint issues accurately.",
         "bullets": [
-          "Computerized engine analysis",
-          "Check engine light diagnostics",
-          "Electrical system troubleshooting"
+          "Factory-recommended maintenance schedules",
+          "Advanced computer diagnostics",
+          "Quality parts with warranty",
+          "Transparent estimates with no hidden fees"
         ],
         "reverse": false,
-        "cardLabel": "Transparency",
-        "cardTitle": "No Guesswork, No Surprises",
-        "cardBody": "We explain every issue in plain English and provide a detailed estimate before any work begins."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Quality You Can Count On",
+        "cardBody": "Every repair comes with a satisfaction guarantee. We stand behind our work because your safety is our priority."
       },
       {
-        "eyebrow": "Full-Service Care",
-        "title": "Complete Auto Repair Under One Roof",
-        "body": "From oil changes to transmission rebuilds, we handle all makes and models with the same dedication to quality.",
+        "eyebrow": "Specialized Expertise",
+        "title": "Brake, Engine & Electrical System Specialists",
+        "body": "From squeaky brakes to check engine lights, our technicians are trained to handle the most common and complex issues. We use premium parts and follow manufacturer specifications to ensure lasting performance.",
         "bullets": [
-          "Brake repair and replacement",
-          "Engine and transmission services",
-          "AC and heating system repair"
+          "Complete brake inspections and repairs",
+          "Engine diagnostics and performance tuning",
+          "Electrical system troubleshooting",
+          "A/C service and cooling system repairs"
         ],
         "reverse": true,
-        "cardLabel": "Convenience",
-        "cardTitle": "One-Stop Shop for Your Vehicle",
-        "cardBody": "Save time and hassle with comprehensive services performed by skilled technicians you can trust."
+        "cardLabel": "Why It Matters",
+        "cardTitle": "Safety First, Always",
+        "cardBody": "Properly functioning brakes and electrical systems are critical for your safety. We don't cut corners."
       }
     ],
     "whyTitle": "Why Choose Master Garage Auto Services?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our team consists of ASE-certified mechanics with ongoing training to stay current with the latest automotive technology."
+        "description": "Our mechanics are ASE-certified and undergo continuous training to stay current with the latest automotive technology."
       },
       {
-        "title": "Honest Upfront Pricing",
-        "description": "We provide transparent estimates with no hidden fees. You approve all work before we begin."
+        "title": "Transparent Pricing",
+        "description": "We provide detailed estimates before any work begins, so you know exactly what you're paying for — no surprises."
       },
       {
         "title": "Fast Turnaround",
-        "description": "We respect your time. Most repairs are completed same-day or within 24 hours."
+        "description": "Most services are completed the same day. We value your time and work efficiently without sacrificing quality."
       },
       {
-        "title": "Warranty on Repairs",
-        "description": "All parts and labor come with a comprehensive warranty for your peace of mind."
+        "title": "Customer Satisfaction Guarantee",
+        "description": "Your satisfaction is our top priority. If you're not happy, we'll make it right."
       }
     ],
     "testimonials": [
       {
-        "quote": "They diagnosed my car's issue quickly and fixed it for a fair price. I'll definitely be coming back.",
+        "quote": "They diagnosed my car's issue quickly and fixed it at a fair price. I've been coming here for years and always leave satisfied.",
         "author": "Mike R.",
-        "role": "Garland Resident"
+        "role": "Garland resident"
       },
       {
-        "quote": "Honest mechanics who don't try to upsell you. They explained everything clearly.",
-        "author": "Jessica L.",
-        "role": "Sachse Commuter"
+        "quote": "Honest and professional. They explained everything clearly and didn't try to upsell me. Highly recommend!",
+        "author": "Lisa T.",
+        "role": "Sachse commuter"
       },
       {
-        "quote": "Great service on my truck's transmission. It runs like new again. Highly recommend!",
-        "author": "Tom S.",
-        "role": "Rowlett Homeowner"
+        "quote": "Great experience from start to finish. My car runs like new again. Will definitely be a repeat customer.",
+        "author": "David K.",
+        "role": "Rowlett homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready for Reliable Auto Service?",
-      "subheadline": "Schedule your appointment today and experience the Master Garage difference.",
-      "primaryCta": "Book Now",
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Call us or schedule online today. We'll get you back on the road quickly and safely.",
+      "primaryCta": "Schedule Service",
       "secondaryCta": "Call (972) 815-8461"
     }
   },
   "servicesPage": {
-    "intro": "From routine maintenance to complex repairs, Master Garage Auto Services LLC provides comprehensive auto care for all makes and models. Our certified technicians use advanced tools and quality parts to keep your vehicle running smoothly."
+    "intro": "At Master Garage Auto Services LLC, we offer a full range of auto repair and maintenance services to keep your vehicle running smoothly. From routine oil changes to major engine repairs, our certified technicians use the latest tools and techniques to deliver reliable results. Explore our services below and schedule your appointment today."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert engine repair to restore performance.",
-      "longDescription": "Our advanced diagnostic equipment identifies engine problems quickly, from check engine lights to performance issues. We repair or replace components with precision, ensuring your engine runs efficiently.",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake service to ensure your safety on the road.",
+      "longDescription": "Your vehicle's braking system is its most important safety feature. Our technicians perform thorough inspections, replace worn pads and rotors, and ensure your brakes are responsive and reliable. We use high-quality parts and provide honest recommendations.",
       "benefits": [
-        "Pinpoint accuracy reduces repair time",
-        "Restored fuel economy and power",
-        "Prevents minor issues from becoming major"
+        "Enhanced stopping power and safety",
+        "Reduced noise and vibration",
+        "Extended brake system life",
+        "Peace of mind on every drive"
       ],
       "process": [
         {
-          "title": "Comprehensive Scan",
-          "description": "We connect your vehicle to our diagnostic tools to read error codes and live data."
+          "title": "Inspection",
+          "description": "We check pads, rotors, calipers, and fluid levels."
         },
         {
-          "title": "Thorough Inspection",
-          "description": "Our technician inspects related systems to confirm the root cause."
+          "title": "Repair",
+          "description": "Replace worn components with premium parts."
         },
         {
-          "title": "Repair & Test",
-          "description": "We perform the necessary repairs and test-drive to ensure everything is working perfectly."
+          "title": "Test Drive",
+          "description": "We test drive to ensure proper performance."
         }
       ],
       "faqs": [
         {
-          "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics are completed within one hour, depending on the complexity."
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits. We'll inspect them during your visit."
         },
         {
-          "question": "Do you offer warranty on engine repairs?",
-          "answer": "Yes, we provide a warranty on both parts and labor for your peace of mind."
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, vibration, or a soft brake pedal. Bring your car in if you notice any of these."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert engine repairs.",
+      "longDescription": "When your check engine light comes on, trust us to diagnose the problem correctly. Our advanced diagnostic tools read error codes and identify issues quickly. From minor sensor replacements to major engine overhauls, we handle it all with precision.",
+      "benefits": [
+        "Accurate problem identification",
+        "Efficient repairs to save time and money",
+        "Improved engine performance and fuel economy",
+        "Longer engine lifespan"
+      ],
+      "process": [
+        {
+          "title": "Scan",
+          "description": "Connect diagnostic equipment to read error codes."
+        },
+        {
+          "title": "Diagnose",
+          "description": "Interpret codes and perform additional tests."
+        },
+        {
+          "title": "Repair",
+          "description": "Fix the issue with quality parts and expert labor."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What does the check engine light mean?",
+          "answer": "It can indicate anything from a loose gas cap to a serious engine problem. We'll diagnose it accurately."
+        },
+        {
+          "question": "Can you fix check engine light issues same day?",
+          "answer": "Many cases are resolved same day. We'll let you know the scope of work first."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "02",
-      "title": "Brake Services",
-      "shortDescription": "Complete brake inspection, repair, and replacement for safety.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid, then perform necessary repairs using high-quality parts to ensure stopping power you can trust.",
-      "benefits": [
-        "Enhanced safety and stopping distance",
-        "Quieter, smoother braking",
-        "Extended brake system lifespan"
-      ],
-      "process": [
-        {
-          "title": "Brake Inspection",
-          "description": "We check pad thickness, rotor condition, caliper function, and fluid level."
-        },
-        {
-          "title": "Component Replacement",
-          "description": "We replace worn parts with premium components for optimal performance."
-        },
-        {
-          "title": "System Test",
-          "description": "We test the brakes on the road to ensure proper operation and no noises."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I replace brake pads?",
-          "answer": "Typically every 30,000 to 50,000 miles, but it depends on driving habits."
-        },
-        {
-          "question": "What are signs my brakes need service?",
-          "answer": "Squealing, grinding, vibration, or a soft brake pedal indicate it's time for an inspection."
-        }
-      ],
-      "slug": "brake-services"
-    },
-    {
       "icon": "03",
-      "title": "Oil Changes & Preventive Maintenance",
-      "shortDescription": "Regular oil changes and maintenance to extend your engine's life.",
-      "longDescription": "Routine oil changes are the simplest way to protect your engine. We use quality oils and filters, and also perform multi-point inspections to catch issues early.",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Keep your engine running smoothly with regular maintenance.",
+      "longDescription": "Regular oil changes are the lifeblood of your engine. We use high-quality oil and filters to protect your engine and extend its life. Our maintenance packages also include fluid checks, tire rotations, and multi-point inspections to catch issues early.",
       "benefits": [
-        "Prolongs engine life",
-        "Improves fuel efficiency",
-        "Prevents costly breakdowns"
+        "Optimal engine lubrication and performance",
+        "Improved fuel efficiency",
+        "Prevention of costly repairs",
+        "Comprehensive vehicle health check"
       ],
       "process": [
         {
-          "title": "Oil Drain & Filter Change",
-          "description": "We drain old oil and replace the filter with a high-quality one."
+          "title": "Drain & Replace",
+          "description": "Drain old oil and replace with fresh oil and filter."
         },
         {
-          "title": "Fresh Oil Fill",
-          "description": "We add the correct grade and amount of oil for your vehicle."
+          "title": "Inspect",
+          "description": "Check fluids, belts, hoses, and tire pressure."
         },
         {
-          "title": "Multi-Point Inspection",
-          "description": "We check fluids, belts, hoses, and tire pressure to keep you safe."
+          "title": "Report",
+          "description": "Provide a detailed report of your vehicle's condition."
         }
       ],
       "faqs": [
-        {
-          "question": "What type of oil do you use?",
-          "answer": "We use conventional, synthetic blend, and full synthetic oils to match your manufacturer's recommendations."
-        },
         {
           "question": "How often should I get an oil change?",
-          "answer": "Most vehicles need an oil change every 5,000 to 7,500 miles, but check your owner's manual."
+          "answer": "Every 3,000-5,000 miles for conventional oil, or up to 7,500 for synthetic. Check your owner's manual."
+        },
+        {
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer conventional and synthetic oil options to suit your vehicle."
         }
       ],
-      "slug": "oil-changes-preventive-maintenance"
+      "slug": "oil-change-routine-maintenance"
     },
     {
       "icon": "04",
-      "title": "AC & Heating System Repair",
-      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
-      "longDescription": "A malfunctioning AC or heater can make driving miserable. We diagnose and repair all climate control systems, from refrigerant leaks to blower motor failures.",
+      "title": "A/C & Heating Service",
+      "shortDescription": "Stay comfortable with reliable climate control service.",
+      "longDescription": "When your car's A/C blows warm air or the heater isn't working, our technicians can diagnose and repair the issue. We service compressors, condensers, evaporators, and recharge refrigerant to restore optimal performance.",
       "benefits": [
-        "Restored cabin comfort year-round",
-        "Eliminates unpleasant odors",
-        "Improves defroster performance for safety"
+        "Comfortable cabin temperature year-round",
+        "Proper defrosting for safety",
+        "Improved system efficiency",
+        "Prevention of costly component failure"
       ],
       "process": [
         {
-          "title": "System Diagnosis",
-          "description": "We test pressures, temperatures, and electrical components to find the issue."
+          "title": "Inspection",
+          "description": "Check refrigerant levels, compressor, and vents."
         },
         {
-          "title": "Repair or Replace",
-          "description": "We fix leaks, replace compressors, condensers, or other faulty parts."
+          "title": "Repair",
+          "description": "Fix leaks, replace faulty parts, or recharge refrigerant."
         },
         {
-          "title": "Performance Check",
-          "description": "We verify proper cooling and heating output before completion."
+          "title": "Test",
+          "description": "Verify system cools and heats properly."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose it accurately."
+          "question": "Why is my A/C blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak. We'll diagnose the exact issue."
         },
         {
-          "question": "Do you recharge AC systems?",
-          "answer": "Yes, we recharge AC systems to manufacturer specifications after repairing any leaks."
+          "question": "How often should I service my car's A/C?",
+          "answer": "Every 2 years is recommended to maintain efficiency and catch small problems early."
         }
       ],
-      "slug": "ac-heating-system-repair"
+      "slug": "ac-heating-service"
     }
   ],
   "about": {
-    "headline": "Your Trusted Local Auto Repair Shop in Garland",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe and moving forward.",
+    "headline": "Garland's Trusted Auto Repair Team",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our community safe and mobile. We believe in transparency, integrity, and exceptional craftsmanship.",
     "story": [
-      "Master Garage Auto Services LLC was founded on the belief that every driver deserves reliable, affordable car care. With over 15 years of experience, our team has built a reputation for integrity and technical excellence in Garland and beyond. We treat every vehicle as if it were our own, using only quality parts and proven methods.",
-      "Our shop is family-owned and operated, and we take pride in building long-term relationships with our customers. From the moment you walk in, you'll experience a level of transparency and care that sets us apart. Whether it's a simple oil change or a major engine overhaul, we're here to help."
+      "Master Garage Auto Services LLC was founded with a simple vision: create an auto repair shop where customers feel respected and informed. Our owner, a seasoned mechanic with over 15 years of experience, saw too many shops prioritizing profit over people. He built Master Garage on the principles of honesty, quality, and fair pricing.",
+      "Today, we serve Garland and the surrounding communities with a team of certified technicians who share that commitment. Every car that comes through our doors receives meticulous attention, from routine maintenance to complex repairs. We're proud to be a trusted name in local auto care."
     ],
     "highlight": {
-      "stat": "4.9",
-      "label": "Average Customer Rating"
+      "stat": "15+",
+      "label": "Years of Dedicated Service"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell you what your car needs and why, with no pressure or hidden charges."
+        "description": "We always tell you what your car needs — and what it doesn't."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer specifications to ensure lasting repairs."
-      },
-      {
-        "title": "Respect",
-        "description": "We value your time and your trust, and we treat you and your vehicle with the utmost respect."
+        "description": "We use top-tier parts and follow manufacturer standards for every repair."
       },
       {
         "title": "Community",
-        "description": "As a local business, we are committed to serving Garland and supporting our neighbors."
+        "description": "We're proud to serve Garland and support our neighbors."
+      },
+      {
+        "title": "Reliability",
+        "description": "We finish jobs on time and stand behind our work with a satisfaction guarantee."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Master Garage Auto Services",
-    "subheadline": "We're here to answer your questions and schedule your service. Call or visit us today.",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to schedule service or have questions? We're here to help.",
     "primaryCta": "Call (972) 815-8461",
     "formCta": "Send Message",
     "serviceAreas": [
-      "Garland, TX",
-      "Sachse, TX",
-      "Rowlett, TX",
-      "Richardson, TX",
-      "Mesquite, TX",
-      "Dallas, TX"
+      "Garland",
+      "Sachse",
+      "Rowlett",
+      "Richardson",
+      "Murphy",
+      "Wylie"
     ]
   },
   "social_proof": {
-    "rating": 4.9,
+    "rating": "",
     "reviews": null
   },
   "meta": {
